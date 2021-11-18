@@ -1,0 +1,28 @@
+.header_item {
+  display: flex;
+}
+.header_item Toolbar {
+  margin-left: 20px;
+  font-weight: bold;
+}
+.Menu_item ul {
+  display: flex;
+  float: right;
+  margin-left: 950px;
+}
+.Menu_item li {
+  list-style-type: none;
+  color: white;
+  font-weight: bold;
+  list-style: none;
+  padding: 20px;
+}
+.Menu_item a {
+  color: white;
+  list-style-type: none;
+}
+.header_image img {
+  background-repeat: no-repeat;
+  object-fit: fill;
+  /* max-width: 100%; */
+}
